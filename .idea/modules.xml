@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///media/sda4/adt/drive/TestCamera/app/app.iml" filepath="/media/sda4/adt/drive/TestCamera/app/app.iml" />
+      <module fileurl="file:///media/sda4/adt/drive/TestCamera/lib/lib.iml" filepath="/media/sda4/adt/drive/TestCamera/lib/lib.iml" />
+    </modules>
+  </component>
+</project>
+
